@@ -2,6 +2,13 @@
 ### Block Plugin for WordPress 
 This WordPress plugin adds a Excel Converter Block to the Gutenberg editor. The Block enables the drag and drop conversion from XLS / XLSX files to an HTML table. 
 
+<section>
+  <img src="images/View-1.png" height="250"/>
+  <img src="images/View-2.png" height="250"/> 
+  <img src="images/View-3.png" height="250"/> 
+</section>
+
+
 ## Building
 
 To build this plugin, you have to have node and npm installed.
