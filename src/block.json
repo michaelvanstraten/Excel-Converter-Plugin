@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "michael-van-straten/excel-converter-plugin",
+	"version": "0.1.0",
+	"title": "Excel Converter",
+	"category": "embed",
+	"icon": "media-spreadsheet",
+	"description": "Converts Excel to html, plugin for Herrn Riedel",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "excel-converter-plugin",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}
