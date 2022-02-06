@@ -19,7 +19,7 @@ npm install
 ```
 and
 ```sh
-rpm run plugin-zip
+npm run plugin-zip
 ```
 This should result in a zip file in the root of this project. Now, the plugin can be installed via the upload function in WordPress.
 
